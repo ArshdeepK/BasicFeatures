@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C90ED6D9-AA91-4B81-BEEF-A4BE0766055F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9341C856-AA3A-4A92-B22A-9F3ABB20774F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BasicFeatures/View/Controllers/Features List/FeaturesListTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9720B97C-3432-4223-B2E1-4CFC67AA24B3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BasicFeatures/View/Controllers/Features List/FeaturesListTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "111"
+            endingLineNumber = "111"
+            landmarkName = "initViewModel()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "647B09E2-700A-4894-8364-326F989B01AE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BasicFeatures/View/Controllers/Features List/FeaturesListTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8347637-90C6-402C-AE5C-84DBC15A30BE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BasicFeatures/View/Controllers/Features List/FeaturesListTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "51EE3B4F-0F34-40A3-9D30-BB4175B9507D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BasicFeatures/Screens/Users List/UserListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "createUserViewModel(user:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7CB88EA4-00E9-4BC4-A518-652D7E00165C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BasicFeatures/Screens/Users List/UserListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "createUsersByGender()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A94EE1C-D164-43FC-90FF-165795FADB57"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BasicFeatures/Screens/Users List/UserListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "createUsersByGender()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0AE8A83E-5758-432D-8582-04D3568FE955"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BasicFeatures/Networking/Request.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "perform(for:url:parameters:method:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2FAEC935-E341-4CCA-9C47-02DAACE57A46"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BasicFeatures/Networking/Request.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "perform(for:url:parameters:method:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2FAEC935-E341-4CCA-9C47-02DAACE57A46 - 854c355e65b6c7ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BasicFeatures.Request.perform(url: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, method: BasicFeatures.Request.HTTPMethod, completion: (BasicFeatures.UserResponse, Swift.Int, Swift.Int) -&gt; ()) -&gt; ()"
+                  moduleName = "BasicFeatures"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arshdeep/Desktop/ARSHDEEPWORKSPACE/Workspace/Other%20Projects/BasicFeatures/BasicFeatures/Networking/Request.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "278">
+               </Location>
+               <Location
+                  uuid = "2FAEC935-E341-4CCA-9C47-02DAACE57A46 - 854c355e65b6c7ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BasicFeatures.Request.perform(url: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, method: BasicFeatures.Request.HTTPMethod, completion: (BasicFeatures.UserResponse, Swift.Int, Swift.Int) -&gt; ()) -&gt; ()"
+                  moduleName = "BasicFeatures"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arshdeep/Desktop/ARSHDEEPWORKSPACE/Workspace/Other%20Projects/BasicFeatures/BasicFeatures/Networking/Request.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "348">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE855F73-2E51-40FD-9E1F-99A9EC10F931"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BasicFeatures/Screens/Users List/UserListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "fetchUsers()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AE855F73-2E51-40FD-9E1F-99A9EC10F931 - 2a157b7818f07136"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (BasicFeatures.UserResponse, Swift.Int, Swift.Int) -&gt; () in BasicFeatures.UserListViewModel.fetchUsers() -&gt; ()"
+                  moduleName = "BasicFeatures"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arshdeep/Desktop/ARSHDEEPWORKSPACE/Workspace/Other%20Projects/BasicFeatures/BasicFeatures/Screens/Users%20List/UserListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "138">
+               </Location>
+               <Location
+                  uuid = "AE855F73-2E51-40FD-9E1F-99A9EC10F931 - 2a157b7818f07136"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (BasicFeatures.UserResponse, Swift.Int, Swift.Int) -&gt; () in BasicFeatures.UserListViewModel.fetchUsers() -&gt; ()"
+                  moduleName = "BasicFeatures"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arshdeep/Desktop/ARSHDEEPWORKSPACE/Workspace/Other%20Projects/BasicFeatures/BasicFeatures/Screens/Users%20List/UserListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "163">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E7B5BF1F-071E-4A5F-B6D2-19A7006B3FE6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BasicFeatures/Screens/Users List/UserListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "parseUsers()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B8F418BF-D170-4277-8E99-7823EA8EFBCA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BasicFeatures/Screens/Users List/UserListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "createUserViewModel(user:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B8F418BF-D170-4277-8E99-7823EA8EFBCA - 51c867e3d20d3753"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BasicFeatures.UserListViewModel.createUserViewModel(user: BasicFeatures.User, completion: (BasicFeatures.UserCellViewModel) -&gt; ()) -&gt; ()"
+                  moduleName = "BasicFeatures"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arshdeep/Desktop/ARSHDEEPWORKSPACE/Workspace/Other%20Projects/BasicFeatures/BasicFeatures/Screens/Users%20List/UserListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "1489">
+               </Location>
+               <Location
+                  uuid = "B8F418BF-D170-4277-8E99-7823EA8EFBCA - 51c867e3d20d3753"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BasicFeatures.UserListViewModel.createUserViewModel(user: BasicFeatures.User, completion: (BasicFeatures.UserCellViewModel) -&gt; ()) -&gt; ()"
+                  moduleName = "BasicFeatures"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arshdeep/Desktop/ARSHDEEPWORKSPACE/Workspace/Other%20Projects/BasicFeatures/BasicFeatures/Screens/Users%20List/UserListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "1551">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
